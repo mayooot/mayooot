@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱
+I'm a rookie in the cloud native space.
+You can contact me if you have a suitable job posting.
