@@ -1,8 +1,6 @@
-### Hi there
+### Hallo
 
 I'm a rookie in the cloud native space. 🌱
 
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=mayooot&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
-
-![Gopher 捅咕 K8s](assert%2Fkubernetes-testing.gif)
+![mouse](assert%2Faee1a46bly1hpf8pg4217g208c08cgr6.gif)
 
