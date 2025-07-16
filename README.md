@@ -1,4 +1,7 @@
-### 👋 Aloha
+# 👋 Hi there!
 
 
-![mayooot's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayooot&show_icons=true&theme=radical)
+Software engineer — skilled in **Golang**, **Kubernetes**, and **Cloud Native** tech.  
+Hands-on with **vcluster** and **GPU** on Kubernetes.
+
+📧 Reach me at: **bertram_li@163.com**
