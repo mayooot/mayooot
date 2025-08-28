@@ -13,7 +13,7 @@ I am currently seeking a full-time role in **AI Infrastructure** or as a **Kuber
 I actively contribute to leading projects in the cloud-native ecosystem:
 
 *   **[vcluster](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Amayooot+)**
-*   **[kubernetes](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amayooot+)
+*   **[kubernetes](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amayooot+)**
 *   **[HAMi](https://github.com/Project-HAMi/HAMi/pulls?q=is%3Apr+author%3Amayooot+)**
 *   **[liqo](https://github.com/liqotech/liqo/pulls?q=is%3Apr+author%3Amayooot+)**
 *   **[aibrix](https://github.com/vllm-project/aibrix/pulls?q=is%3Apr+author%3Amayooot+)**
