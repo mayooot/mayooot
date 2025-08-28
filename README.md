@@ -12,10 +12,11 @@ I am currently seeking a full-time role in **AI Infrastructure** or as a **Kuber
 
 I actively contribute to leading projects in the cloud-native ecosystem:
 
-*   **[vcluster](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Amayooot+)**: Contributed to the leading solution for creating lightweight, virtual Kubernetes clusters.
-*   **[HAMi](https://github.com/Project-HAMi/HAMi/pulls?q=is%3Apr+author%3Amayooot+)**: Enhanced a GPU sharing solution that enables fine-grained AI workload scheduling on Kubernetes.
-*   **[liqo](https://github.com/liqotech/liqo/pulls?q=is%3Apr+author%3Amayooot+)**: Worked on a dynamic, multi-cluster Kubernetes peering project for seamless resource sharing.
-*   **[aibrix](https://github.com/vllm-project/aibrix/pulls?q=is%3Apr+author%3Amayooot+)**: Improved tooling for deploying and managing high-performance LLM inference services.
+*   **[vcluster](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Amayooot+)**
+*   **[kubernetes](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Amayooot+)
+*   **[HAMi](https://github.com/Project-HAMi/HAMi/pulls?q=is%3Apr+author%3Amayooot+)**
+*   **[liqo](https://github.com/liqotech/liqo/pulls?q=is%3Apr+author%3Amayooot+)**
+*   **[aibrix](https://github.com/vllm-project/aibrix/pulls?q=is%3Apr+author%3Amayooot+)**
 
 <!-- 
     这是你的 GitHub 统计卡片，可以保留，它能直观展示你的活跃度 
