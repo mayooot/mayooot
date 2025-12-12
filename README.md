@@ -5,9 +5,4 @@ Right now, I'm learning about LLM fine-tuning and inference, working with tools 
 
 📪 Feel free to reach out: **harrymingh@gmail.com**
 
----
 
-<!-- 
-    这是你的 GitHub 统计卡片，可以保留，它能直观展示你的活跃度 
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayooot&show_icons=true&theme=transparent)
