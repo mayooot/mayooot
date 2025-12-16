@@ -9,7 +9,7 @@ I am planning to relocate to **Japan (Tokyo)** in the future.
 I'm open to **On-site** or **Remote** opportunities focusing on **K8s/Cloud-Native** and **AI Infrastructure** development.
 
 ### 🍵 Life Goal
-Manifesting a quiet life in **Kyoto**—owning a traditional house with a peaceful garden (庭).
+Manifesting a quiet life in **Kyoto**—owning a traditional house with a peaceful garden, listening to the rhythmic sound of a shishi-odoshi.
 
 ---
 
