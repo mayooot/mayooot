@@ -1,13 +1,14 @@
 ### Hi, I'm Ming 👋
 
-I build AI infrastructure on Kubernetes — currently working on large-scale
-image vector retrieval (Milvus / FAISS, 7.4M vectors in production,
-capacity-planned for 700M) and multi-tenant GPU clusters at Megvii.
+I build AI infrastructure on Kubernetes — currently working on
+billion-scale image vector retrieval (Milvus / FAISS) and AI platform
+(training & inference) at Megvii.
 
 **What I work on**
-- ☸️ Kubernetes internals: operators, multi-tenancy (VCluster), GPU scheduling (HAMi / Device Plugin)
+- ☸️ Kubernetes internals: operators, GPU scheduling (HAMi / Volcano / Kueue / Device Plugin)
 - 🔍 Vector search at scale: index selection, recall/latency/memory benchmarking, capacity planning
 - 🖥️ GPU infrastructure: NCCL tuning, DCU/NPU enablement, container-level GPU management
+- 🏗️ Multi-tenant K8s clusters (VCluster) — previously at DataCanvas
 - 📊 Measuring before believing — most of my work starts with a benchmark
 
 **Upstream contributions**
@@ -22,4 +23,4 @@ capacity-planned for 700M) and multi-tenant GPU clusters at Megvii.
 
 **Writing**: [Zhihu column](https://www.zhihu.com/people/mayooot/posts) (Chinese)
 
-📫 bertram_li@163.com
+📫 harrymingh@gmail.com
