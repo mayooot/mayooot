@@ -1,10 +1,25 @@
-# Hi there 👋
+### Hi, I'm Ming 👋
 
-I'm a **Cloud-Native & AI Infrastructure Engineer**, focusing on **Kubernetes, AI Infrastructure, GPU Scheduling, and Virtual Kubernetes Clusters**.
+I build AI infrastructure on Kubernetes — currently working on large-scale
+image vector retrieval (Milvus / FAISS, 7.4M vectors in production,
+capacity-planned for 700M) and multi-tenant GPU clusters at Megvii.
 
-Currently, I'm deep-diving into **Kubernetes Device Plugin**, **domestic GPU (DCU/NPU) enablement**, and **Milvus vector database optimization**, including vector indexing, storage architecture, mmap, and large-scale vector retrieval performance.
+**What I work on**
+- ☸️ Kubernetes internals: operators, multi-tenancy (VCluster), GPU scheduling (HAMi / Device Plugin)
+- 🔍 Vector search at scale: index selection, recall/latency/memory benchmarking, capacity planning
+- 🖥️ GPU infrastructure: NCCL tuning, DCU/NPU enablement, container-level GPU management
+- 📊 Measuring before believing — most of my work starts with a benchmark
 
-## 🚀 Career Objective
+**Upstream contributions**
+[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ·
+[golang/go](https://github.com/golang/go) ·
+[apple/containerization](https://github.com/apple/containerization) ·
+[vcluster](https://github.com/loft-sh/vcluster) ·
+[aibrix](https://github.com/vllm-project/aibrix) ·
+[HAMi](https://github.com/Project-HAMi/HAMi) ·
+[kueue](https://github.com/kubernetes-sigs/kueue) ·
+[all PRs →](https://github.com/pulls?q=is:pr+author:mayooot+-user:mayooot)
 
-I am planning to relocate to **Japan (Tokyo)** in the future. I'm open to **On-site** or **Remote** opportunities focusing on **Kubernetes, Cloud-Native, AI Infrastructure, GPU Infrastructure**.
+**Writing**: [Zhihu column](https://www.zhihu.com/people/mayooot/posts) (Chinese)
 
+📫 bertram_li@163.com
