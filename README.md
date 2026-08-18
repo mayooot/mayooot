@@ -7,7 +7,7 @@ multi-billion-scale image vector retrieval (Milvus / FAISS) and AI platform
 **What I work on**
 - ☸️ Kubernetes internals: operators, GPU scheduling (HAMi / Volcano / Kueue / Device Plugin)
 - 🔍 Vector search at scale: index selection, recall/latency/memory benchmarking, capacity planning
-- 🖥️ GPU infrastructure: NCCL tuning, DCU/NPU enablement, container-level GPU management
+- 🖥️ GPU infrastructure: NCCL tuning, DCU/NPU enablement, container-level GPU management — earlier built a multi-tenant GPU cloud (A100/H800, per-second billing) serving external users
 - 🏗️ Multi-tenant K8s clusters (VCluster) — previously at DataCanvas
 - 📊 Measuring before believing — most of my work starts with a benchmark
 
