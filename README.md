@@ -1,7 +1,7 @@
 ### Hi, I'm Ming 👋
 
 I build AI infrastructure on Kubernetes — currently working on
-billion-scale image vector retrieval (Milvus / FAISS) and AI platform
+multi-billion-scale image vector retrieval (Milvus / FAISS) and AI platform
 (training & inference) at Megvii.
 
 **What I work on**
