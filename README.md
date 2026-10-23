@@ -18,4 +18,3 @@ I usually start with a benchmark.
 [kueue](https://github.com/kubernetes-sigs/kueue) ·
 [all PRs →](https://github.com/pulls?q=is:pr+author:mayooot+-user:mayooot)
 
-📝 [知乎专栏](https://www.zhihu.com/people/mayooot/posts)
