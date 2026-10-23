@@ -1,18 +1,15 @@
 ### Hi, I'm Ming 👋
 
-I build AI infrastructure on Kubernetes — currently working on
-multi-billion-scale image vector retrieval (Milvus / FAISS) and AI platform
-(training & inference) at Megvii.
+AI infra engineer at Megvii, working on Kubernetes, GPU scheduling and large-scale vector search.
 
-**What I work on**
-- ☸️ Kubernetes internals: operators, GPU scheduling (HAMi / Volcano / Kueue / Device Plugin)
-- 🔍 Vector search at scale: index selection, recall/latency/memory benchmarking, capacity planning
-- 🖥️ GPU infrastructure: NCCL tuning, DCU/NPU enablement, container-level GPU management — earlier built a multi-tenant GPU cloud (A100/H800, per-second billing) serving external users
-- 🏗️ Multi-tenant K8s clusters (VCluster) — previously at DataCanvas
-- 📊 Measuring before believing — most of my work starts with a benchmark
+- ☸️ GPU scheduling on K8s — HAMi / Volcano / Kueue / device plugins
+- 🔍 Billion-scale image retrieval with Milvus / FAISS
+- 🖥️ GPU clusters — NCCL tuning, multi-tenant GPU cloud, VCluster
 
-**Upstream contributions**
-[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ·
+I usually start with a benchmark.
+
+**Contributed to**
+[kubernetes](https://github.com/kubernetes/kubernetes) ·
 [golang/go](https://github.com/golang/go) ·
 [apple/containerization](https://github.com/apple/containerization) ·
 [vcluster](https://github.com/loft-sh/vcluster) ·
@@ -21,6 +18,4 @@ multi-billion-scale image vector retrieval (Milvus / FAISS) and AI platform
 [kueue](https://github.com/kubernetes-sigs/kueue) ·
 [all PRs →](https://github.com/pulls?q=is:pr+author:mayooot+-user:mayooot)
 
-**Writing**: [Zhihu column](https://www.zhihu.com/people/mayooot/posts) (Chinese)
-
-📫 harrymingh@gmail.com
+📝 [知乎专栏](https://www.zhihu.com/people/mayooot/posts)
